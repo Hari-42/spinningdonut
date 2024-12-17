@@ -6,8 +6,6 @@ When I saw this video, I wanted to make it in C#
 
 https://www.youtube.com/watch?v=zn4Yvxww58g&ab_channel=GiovanniCode
 
-![Spinning Donut](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
 ---
 
 ## Description
